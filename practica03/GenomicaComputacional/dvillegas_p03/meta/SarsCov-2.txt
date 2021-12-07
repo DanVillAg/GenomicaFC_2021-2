@@ -1,0 +1,26 @@
+Anatomía del coronavirus
+
+Familia del coronavidae
+    -Alfacoronavirus: infecta a mamiferos
+    -BetaCoronaviruas: infecta a mamiferos
+    -Gama :aves
+    -Delta: aves y mamiferos
+
+El coronavirus actual es un SARS.
+La secuenciación de muestras de lavado broncoalveolar de 9 pacientes chinos permitió el desarrollo de una prueba PCR.
+La muestra provino de un hombre de 41 años que trabajaba en el mercado de mariscos en Wuhan donde apareció el primer grupo de casos.
+
+Estructura:
+    -Virus RNA de cadena sencilla positiva enrrollada en una nucleocapside
+    -Constituída de una glicoproteía de membrana
+    -de 50-200 nanómetros
+
+El genoma del nuevo coronavirus tiene menos de 30,000 caracterres de longitud. Hasta ahora los científicos han identificado genes para hasta 29 proteínas del vírus
+
+Estrategias para desarrollar vacunas:
+    -Microorganismo vivos atenuados
+    -microorganismos inactivados
+    -toxoides
+    -subunidades
+    -DNA
+    -Péptidos
